@@ -8,7 +8,7 @@ export default {
     "type": "pdf",
     "author": "浙江工农兵美术大学红卫兵战斗队、毛泽东主义红卫兵",
     "files": [
-      "'https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives17/main/xx.pdf"
+      "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives17/main/8dd69245-585b-40a5-a15a-d131b7ae890d.pdf"
     ]
   },
   "parser_option": {
