@@ -138,5 +138,5 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "8dd69245-585b-40a5-a15a-d131b7ae890d"
+  "path": "8dd69245-585b-40a5-a15a-d131b7ae890d.pdf"
 }
