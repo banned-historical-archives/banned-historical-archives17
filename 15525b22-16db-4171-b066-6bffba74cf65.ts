@@ -6,7 +6,7 @@ export default {
     "official": false,
     "type": "img",
     "author": "",
-    "files": [
+    "files": [ 
       "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives17/main/15525b22-16db-4171-b066-6bffba74cf65/1.jpg",
       "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives17/main/15525b22-16db-4171-b066-6bffba74cf65/2.jpg",
       "https://raw.githubusercontent.com/banned-historical-archives/banned-historical-archives17/main/15525b22-16db-4171-b066-6bffba74cf65/3.jpg",
